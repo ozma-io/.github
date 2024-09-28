@@ -1,4 +1,4 @@
-# ozma.io — Transforming Businesses with Low-Code Solutions
+# ozma.io — Transforming Businesses with AI and Low-Code Solutions
 
 [![Discord](https://img.shields.io/discord/938075538961080350.svg?label=Chat&logo=discord&color=7289da)](https://discord.gg/Mc8YcF63yt)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ozma_io?style=social)](https://x.com/ozma_io)
