@@ -98,7 +98,7 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
   <tr>
     <td align="center"><a href="https://github.com/kirill-markin"><img src="https://avatars.githubusercontent.com/u/37423353?v=4" width="100px;" alt=""/><br /><sub><b>Kirill Markin</b></sub></a><br /><a href="#" title="Founder & CEO">💼</a> <a href="#" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/abbradar"><img src="https://avatars.githubusercontent.com/u/1174810?v=4" width="100px;" alt=""/><br /><sub><b>Nikolay Amiantov</b></sub></a><br /><a href="#" title="Founder & CTO">👨‍💻</a> <a href="#" title="Infrastructure">🚇</a></td>
-    <td align="center"><a href="https://github.com/irinagorokhova"><img src="https://avatars.githubusercontent.com/u/64096617?v=4" width="100px;" alt=""/><br /><sub><b>Irina Gorokhova</b></sub></a><br /><a href="#" title="Data architect & Contributor">🌟</a></td>
+    <td align="center"><a href="https://github.com/gorokhovairina"><img src="https://avatars.githubusercontent.com/u/64096617?v=4" width="100px;" alt=""/><br /><sub><b>Irina Gorokhova</b></sub></a><br /><a href="#" title="Data architect & Contributor">🌟</a></td>
   </tr>
 </table>
 
