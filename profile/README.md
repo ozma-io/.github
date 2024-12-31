@@ -6,19 +6,11 @@ Building open-source, low-code platforms for enterprise solutions.
 
 ## Our Projects
 
-[**ozma**](https://github.com/ozma-io/ozma) — Open-source CRM/ERP platform for rapid enterprise system development
+- [**ozma**](https://github.com/ozma-io/ozma) — Open-source CRM/ERP platform for rapid enterprise system development
 
-[**ozmaDB**](https://github.com/ozma-io/ozmadb) — SQL-like database powering web applications with advanced features
+- [**ozmaDB**](https://github.com/ozma-io/ozmadb) — SQL-like database powering web applications with advanced features
 
-[**AI Business App Builder**](https://ozma.io/ai-business-app-builder/) — Build applications through AI-powered conversations
-
-## Get Involved
-
-[Documentation](https://wiki.ozma.io/en/home) • [Try Demo](https://ozma.io/demo/) • [Discord](https://discord.gg/Mc8YcF63yt)
-
-## Tech Stack
-
-**Backend**: F# (.NET Core) • **Frontend**: TypeScript, Vue.js • **Database**: PostgreSQL
+- [**AI Business App Builder**](https://ozma.io/ai-business-app-builder/) — Build applications through AI-powered conversations
 
 ## Contributors
 
